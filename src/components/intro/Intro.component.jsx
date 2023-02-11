@@ -21,7 +21,7 @@ const Intro = () => {
         </button>
       </section>
       <section className="right-container">
-        <button className="contact">
+        <button className="touch-button">
           <span>Get In Touch</span>
         </button>
         <div className="vector-img"></div>

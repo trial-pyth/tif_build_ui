@@ -25,7 +25,7 @@ const Footer = () => {
         <span className="contact-us">Contact Us</span>
       </section>
       <section className="social-section">
-        <div className="social-links">Social Links</div>
+        <div className="social-status">Social Links</div>
         <div className="img-container">
           <span>
             <img src={Insta} alt="instagram" className="img" />
