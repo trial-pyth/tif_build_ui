@@ -104,7 +104,7 @@
       margin-top: 41px;
       background: #e23744;
       border-radius: 34px;
-
+      cursor: pointer;
       @include mobile {
         display: flex;
         flex-direction: row;
@@ -153,7 +153,7 @@
     width: 735px;
     display: flex;
     height: 100%;
-    background-image: url("../../assets/img/svg/pizza.svg");
+    background-image: url("https://raw.githubusercontent.com/trial-pyth/tif_build_ui/main/src/assets/img/svg/pizza.svg");
     position: relative;
     @include mobile {
       position: relative;
@@ -203,6 +203,7 @@
       margin-top: 32px;
       margin-left: 589px;
       // align-self: end;
+      cursor: pointer;
 
       @include mobile {
         // display: none;
