@@ -1,5 +1,5 @@
 import "./about.styles.scss";
-
+import About from "../../assets/img/svg/about_us.svg"
 const About = () => {
   return (
     <section className="about-section">
