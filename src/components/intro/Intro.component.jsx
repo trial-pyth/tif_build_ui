@@ -1,6 +1,6 @@
 import "./intro.styles.scss";
 
-import Logo from "../../assets/img/svg/header_truck.svg";
+import Logo from "../../assets/img/svg/footer_truck.svg";
 
 const Intro = () => {
   return (

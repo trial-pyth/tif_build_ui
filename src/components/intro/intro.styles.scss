@@ -154,7 +154,7 @@
     width: 735px;
     display: flex;
     height: 100%;
-    background-image: url("https://raw.githubusercontent.com/trial-pyth/tif_build_ui/main/src/assets/img/svg/pizza.svg");
+    background-image: url("https://github.com/trial-pyth/tif_build_ui/blob/main/src/assets/img/svg/pizza.png?raw=true");
     position: relative;
     @include mobile {
       position: relative;
@@ -172,7 +172,7 @@
       right: 0px;
       top: 0px;
       z-index: 3;
-      background-image: url("../../assets/img/svg/top_right.svg");
+      background-image: url("../../assets/img/svg/top_right.png");
       // display: none;
       @include mobile {
         position: absolute;

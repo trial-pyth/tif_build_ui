@@ -36,7 +36,7 @@
         display: none;
         width: 0%;
       }
-      background-image: url("https://github.com/trial-pyth/git-tutorial/blob/master/img/svg/about_us.svg");
+      background-image: url("https://raw.githubusercontent.com/trial-pyth/git-tutorial/master/img/svg/aboutus.png");
     }
   }
 
@@ -149,7 +149,7 @@
 
       background: #e23744;
       border-radius: 21px;
-
+      cursor: pointer;
       /* Inside auto layout */
 
       flex: none;
