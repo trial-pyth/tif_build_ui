@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section className="about-section">
       <div className="img-container">
-        <img className="img-section"></img>
+        <img src="https://github.com/trial-pyth/git-tutorial/blob/master/img/svg/about_us.svg" className="img-section"></img>
       </div>
       <div className="about-container">
         <div className="about-title">About Us</div>
