@@ -1,6 +1,6 @@
 import "./footer.styles.scss";
-import Insta from "../../assets/img/svg/insta.png";
-import Twitter from "../../assets/img/svg/twit.png";
+import Insta from "../../assets/img/svg/insta.svg";
+import Twitter from "../../assets/img/svg/twit.svg";
 import Fb from "../../assets/img/svg/fb.svg";
 import FooterLogo from "../../assets/img/svg/footer_truck.svg";
 const Footer = () => {
