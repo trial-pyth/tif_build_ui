@@ -1,13 +1,12 @@
 import "./intro.styles.scss";
 
-import Vector from "../../assets/img/svg/top_right.svg";
-// import Logo from "../../assets/img/header_truck.svg";
+import Logo from "../../assets/img/svg/header_truck.svg";
 
 const Intro = () => {
   return (
     <main className="intro">
       <section className="left-container">
-        {/* <img src={Logo} alt="logo" className="logos" /> */}
+        <img src={Logo} alt="logo" className="logos" />
         <div className="heading">
           Discover the <span style={{ color: "#e23744" }}>Best</span> Food and
           Drinks

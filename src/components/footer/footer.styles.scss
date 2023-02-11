@@ -292,7 +292,7 @@
     }
   }
 
-  .social-section {
+  .media-section {
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -308,7 +308,7 @@
       bottom: 0;
     }
 
-    .social-status {
+    .media-status {
       width: 129px;
       height: 27px;
       margin-top: 84px;
@@ -324,7 +324,6 @@
       color: #0e2368;
 
       @include mobile {
-        display: none;
       }
     }
 
