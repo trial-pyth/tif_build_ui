@@ -104,7 +104,8 @@
       margin-top: 41px;
       background: #e23744;
       border-radius: 34px;
-
+      cursor:pointer;
+      
       @include mobile {
         display: flex;
         flex-direction: row;
